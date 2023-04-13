@@ -1,2 +1,4 @@
 google-cloud-storage
 google-cloud-vision
+google-cloud-datastore
+google-cloud-firestore
